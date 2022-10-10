@@ -9,7 +9,6 @@ pip install hashlib
 pip install beautifulsoup4
 
 2. Double click 執行 torrent2magnet.py
-3. 
 ====================
 
 **案例 1**<br>
