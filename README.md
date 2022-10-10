@@ -1,7 +1,16 @@
 # torrent2magnet
-torrent convert magnet
 
 分析 BT 下載大站，btbtt12.com，批量轉成 magnet，跳過下載 torrent 步驟，並支援批量轉換。
+
+#如何使用？
+1. 需安裝這些依賴包
+pip install bencode.py
+pip install hashlib
+pip install beautifulsoup4
+
+2. Double click 執行 torrent2magnet.py
+3. 
+====================
 
 **案例 1**<br>
 torrent 直接轉換，輸入 torrent 直接網址<br>
